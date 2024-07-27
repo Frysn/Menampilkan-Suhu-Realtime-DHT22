@@ -1,8 +1,8 @@
-// ||=================================||
-// ||      CREAT by FERY SETIAWAN     ||
-// ||     Technology of Univercity    ||
-// ||           YOGYAKARTA            ||
-// ||=================================||
+// ||===================================||
+// ||      CREATED by FERY SETIAWAN     ||
+// ||      Technology of Univercity     ||
+// ||             YOGYAKARTA            ||
+// ||===================================||
 // 27/07/2024
 
 
